@@ -17,8 +17,10 @@
   "dependencies": {
     "@hapi/boom": "9.x.x",
     "@hapi/joi": "17.x.x",
+    "ahem": "^1.1.0",
     "haute-couture": "3.x.x",
-    "kinesis-hapipal": "^1.0.1"
+    "kinesis-hapipal": "^1.0.1",
+    "schmervice": "^1.5.0"
   },
   "devDependencies": {
     "@hapi/code": "8.x.x",
